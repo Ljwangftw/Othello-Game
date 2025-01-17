@@ -1,0 +1,11 @@
+# ninja log v6
+24	106	7587671677802859	CMakeFiles/Othello.dir/Position.cpp.obj	73b8fbd4b03e8d0
+39	2054	7572779172045437	CMakeFiles/Othello.dir/main.cpp.obj	fd99bb5899597400
+22	575	7587671677782648	CMakeFiles/Othello.dir/Board.cpp.obj	f7e4e9f784142383
+9	275	7587671932684103	CMakeFiles/Othello.dir/Main.cpp.obj	a2de9e74bd7abed4
+2233	3605	7587696811001486	Othello.exe	f666c947eefb739d
+60	637	7587782315002726	build.ninja	e9ce21e88046a58d
+30	108	7587671677857911	CMakeFiles/Othello.dir/UnplayablePosition.cpp.obj	c71c05d389e3d30e
+6	257	7587671932643956	CMakeFiles/Othello.dir/Player.cpp.obj	bc91d7b7d37a1631
+4	2233	7587696788707793	CMakeFiles/Othello.dir/Game.cpp.obj	9e3cf6c22791be71
+27	105	7587671677832860	CMakeFiles/Othello.dir/PlayablePosition.cpp.obj	8b9e616ab1eda06a
