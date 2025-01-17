@@ -1,4 +1,1 @@
-C:\Users\jwang\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/jwang/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\jwang\CLionProjects\Othello -B C:\Users\jwang\CLionProjects\Othello\cmake-build-debug
--- Configuring done (0.2s)
--- Generating done (0.1s)
--- Build files have been written to: C:/Users/jwang/CLionProjects/Othello/cmake-build-debug
+CMakeLists.txt not found in C:\Users\jwang\CLionProjects\Othello Select CMakeLists.txt
