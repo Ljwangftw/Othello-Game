@@ -1,6 +1,6 @@
 # Othello Game
 
-A classic twp player strateegy board game with load/save game implementation. 
+A classic two player strategy board game with load/save game implementation. 
 
 How to play
 1. Game starts with a standard 8x8 Othello Board
